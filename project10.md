@@ -31,7 +31,8 @@ Configure Nginx LB using Web Servers’ names defined in /etc/hosts
 
 `sudo snap install --classic certbot`
 
-![certbot](./project10/images/certboot.PNG)
+![certboot](https://user-images.githubusercontent.com/102236877/170505331-3dfd6924-618a-426f-83ab-47bb5a4896e5.PNG)
+
 
 `sudo certbot --nginx -d zainion.click -d www.zainion.click`
 
@@ -43,9 +44,7 @@ Configure Nginx LB using Web Servers’ names defined in /etc/hosts
 
 `crontab -e`
 
-![crontab]
-
-(https://user-images.githubusercontent.com/102236877/170504517-26e9fec3-cd33-4e72-9a45-c6efd71d4b5f.PNG)
+![crontab](https://user-images.githubusercontent.com/102236877/170504517-26e9fec3-cd33-4e72-9a45-c6efd71d4b5f.PNG)
 
 
 
