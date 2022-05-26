@@ -43,7 +43,10 @@ Configure Nginx LB using Web Servers’ names defined in /etc/hosts
 
 `crontab -e`
 
-![crontab](./project10/images/crontab.PNG)
+![crontab]
+
+(https://user-images.githubusercontent.com/102236877/170504517-26e9fec3-cd33-4e72-9a45-c6efd71d4b5f.PNG)
+
 
 
 
